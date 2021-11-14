@@ -16,7 +16,7 @@ index_test = zeros(5,5);
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Experiemnt for number of kept principle components and corresponding classification performance
+%%% Experiemnt for PCA and corresponding classification performance by kNN with k=1
 
 % reduce the dimension of training iamges to multiple lower-dimensions (1, 3, 5, 7, 9) by PCA 
 % and then perform kNN for classification on the reduced test data
